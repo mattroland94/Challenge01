@@ -1,3 +1,4 @@
+/* beginning of default styling  for page */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -75,6 +76,9 @@ p {
     margin-left: 20px;
 }
 
+/* End of Default styling for page */
+
+/* Styling for the Benefits section of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End of Benefits styling */
 
+/* navigation styling for sections */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +193,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of the navigation styling section */
 
+/* footer styling for the end of the page */
 .footer {
     padding: 30px;
     clear: both;
